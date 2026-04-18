@@ -29,14 +29,23 @@ The "Doctor" cohort represents a crisis-level profile with an average stress lev
 "Normal" BMI category is most densely clustered among individuals who achieve the "Goldilocks Zone" of 8K+ daily steps and 7.2–7.8 hours of sleep. Current step averages (6.89K) are insufficient to reach this protective threshold.
 
 Strategic Policy Framework and Targeted Interventions
+
 Acute Burnout Mitigation (Clinical-Role Support)
+
 •	Data Justification: The "Doctor" cohort exhibits a stress level of 8.0, the highest in the organization.
+
 •	Targeted Outcome: Deployment of mandatory "cognitive offloading" protocols and adjusted shift rotations to reduce acute stress and prevent burnout-related errors.
+
 Mid-Life Resilience Program (The 38, 44, and 54 Risk Windows)
+
 •	Data Justification: Heart rate data shows a 100% increase at age 38, with subsequent major spikes at ages 44 and 54.
+
 •	Targeted Outcome: Implementation of proactive cardiovascular screenings and executive health coaching for these specific age brackets to manage the physiological impact of senior leadership roles.
+
 The "8K Step Initiative" (Metabolic Health & BMI Optimization)
+
 •	Data Justification: Scatter plot evidence shows the "Normal" BMI category is most prevalent among those exceeding 8K steps and 7 hours of sleep.
+
 •	Targeted Outcome: Shifting the workforce from the 6.89K average to an 8K minimum through walking meetings and activity incentives to improve BMI distributions and overall energy levels.
 
 https://github.com/aswathikrishnapk123/aswathikrishnapk1/blob/main/Screenshot%202026-04-18%20183412.png
