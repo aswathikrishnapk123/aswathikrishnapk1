@@ -5,10 +5,13 @@ Sleep Health and Lifestyle Analysis Dashboard -PowerBI
 This lifestyle dashboard presents a comprehensive visual analysis of how physical health metrics and professional roles influence rest patterns. 
 
 The data highlights a strong correlation between occupational stress and sleep quality, noting that medical professionals experience the highest tension levels. Most individuals surveyed report no sleep disorders, maintaining an average rest period of over seven hours despite varying activity levels. By categorizing participants by BMI and age, the charts illustrate how weight and maturity impact heart rate and daily movement. Ultimately, the source serves as a data visualization tool designed to track the complex relationship between daily habits and overall wellness outcomes
-
+## 3.TECH SATCK
 The DashBoard was built using the following tools and technologies:
--PowerBI desktop - Main data visualisation paltform used forr report creation.
+
+** -PowerBI desktop - Main data visualisation paltform used forr report creation.**
+
 -Power Query: DAta transformation and cleaning layer for reshaping and preparing the data.
+
 -DAX (Data Analysis Expression) -used for calculated measures, dynamic visauls . and conditional logic.
 -File Format- .pbix for development and .png for dashboard previews.
 
