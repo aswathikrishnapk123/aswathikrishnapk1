@@ -8,17 +8,20 @@ The data highlights a strong correlation between occupational stress and sleep q
 ## 3.TECH SATCK
 The DashBoard was built using the following tools and technologies:
 
-** -PowerBI desktop - Main data visualisation paltform used forr report creation.**
+ -PowerBI desktop - Main data visualisation paltform used forr report creation.
 
 -Power Query: DAta transformation and cleaning layer for reshaping and preparing the data.
 
 -DAX (Data Analysis Expression) -used for calculated measures, dynamic visauls . and conditional logic.
+
 -File Format- .pbix for development and .png for dashboard previews.
+## 4.DATA SOURCE
 
 source: kaggle.com
+
 Data on sleep health and lifestyle of people including details on the Person ID,Gender,	Age, Occupation,	Sleep Duration,	Quality of Sleep,	Physical Activity Level,	Stress Level,	BMI Category,	Blood Pressure,	Heart Rate,	Daily Steps and	Sleep Disorder.
 
--key points and insights
+## 5.key points and insights
 1.	The Age 38 Career Inflection: A massive 100% increase in cardiovascular load, marking the onset of sustained professional pressure and physiological wear.
 2.	The Age 44 Resilience Gap: A significant peak in heart rate activity indicating high risk for burnout and cardiovascular fatigue during mid-career transitions.
 3.	The Age 54 Critical Threshold: A major physiological surge that identifies this demographic as the highest risk for acute health-related performance failure.
@@ -55,4 +58,5 @@ The "8K Step Initiative" (Metabolic Health & BMI Optimization)
 
 •	Targeted Outcome: Shifting the workforce from the 6.89K average to an 8K minimum through walking meetings and activity incentives to improve BMI distributions and overall energy levels.
 
+## 6.SCREENSHOTS
 https://github.com/aswathikrishnapk123/aswathikrishnapk1/blob/main/Screenshot%202026-04-18%20183412.png
