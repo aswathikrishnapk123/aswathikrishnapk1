@@ -1,11 +1,11 @@
 # Sleep Health and Lifestyle
 ## 1.PROJECT TITLE
 Sleep Health and Lifestyle Analysis Dashboard -PowerBI
-## 2.DESCRIPTION
+## 2.PURPOSE
 This lifestyle dashboard presents a comprehensive visual analysis of how physical health metrics and professional roles influence rest patterns. 
 
 The data highlights a strong correlation between occupational stress and sleep quality, noting that medical professionals experience the highest tension levels. Most individuals surveyed report no sleep disorders, maintaining an average rest period of over seven hours despite varying activity levels. By categorizing participants by BMI and age, the charts illustrate how weight and maturity impact heart rate and daily movement. Ultimately, the source serves as a data visualization tool designed to track the complex relationship between daily habits and overall wellness outcomes
-## 3.TECH SATCK
+## 3.TECH STACK
 The DashBoard was built using the following tools and technologies:
 
  -PowerBI desktop - Main data visualisation paltform used forr report creation.
@@ -21,7 +21,7 @@ source: kaggle.com
 
 Data on sleep health and lifestyle of people including details on the Person ID,Gender,	Age, Occupation,	Sleep Duration,	Quality of Sleep,	Physical Activity Level,	Stress Level,	BMI Category,	Blood Pressure,	Heart Rate,	Daily Steps and	Sleep Disorder.
 
-## 5.key points and insights
+## 5.KEY POINTS AND INSIGHTS
 1.	The Age 38 Career Inflection: A massive 100% increase in cardiovascular load, marking the onset of sustained professional pressure and physiological wear.
 2.	The Age 44 Resilience Gap: A significant peak in heart rate activity indicating high risk for burnout and cardiovascular fatigue during mid-career transitions.
 3.	The Age 54 Critical Threshold: A major physiological surge that identifies this demographic as the highest risk for acute health-related performance failure.
